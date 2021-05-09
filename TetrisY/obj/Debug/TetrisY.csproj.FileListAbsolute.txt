@@ -1,0 +1,10 @@
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\obj\Debug\TetrisY.csprojAssemblyReference.cache
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\obj\Debug\TetrisY.Form1.resources
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\obj\Debug\TetrisY.csproj.GenerateResource.cache
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\obj\Debug\TetrisY.csproj.CoreCompileInputs.cache
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\bin\Debug\TetrisY.exe.config
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\bin\Debug\TetrisY.exe
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\bin\Debug\TetrisY.pdb
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\obj\Debug\TetrisY.Properties.Resources.resources
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\obj\Debug\TetrisY.exe
+C:\Users\ptms7\source\repos\野獣先輩\野獣先輩\obj\Debug\TetrisY.pdb
